@@ -7,5 +7,7 @@ Important papers on the automatic generation of radiology reports from medical i
    <li> <em> <a href="https://arxiv.org/pdf/1908.02123.pdf" style="color:#6ecadc" rel="nofollow"> Addressing Data Bias Problems for Chest
 X-ray Image Report Generation</a> </em> - Philipp Harzig et al., 2019
   </li>
+   <li> <em> <a href="https://arxiv.org/pdf/1907.09085.pdf" style="color:#6ecadc" rel="nofollow"> Automatic Radiology Report Generation based on Multi-view Image Fusion and Medical Concept Enrichment</a> </em> - Jianbo Yuan et al., 2019
+  </li>
 </ul>
 
