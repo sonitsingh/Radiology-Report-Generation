@@ -37,5 +37,10 @@ X-ray Image Report Generation</a> </em> - Philipp Harzig et al., 2019
   <li> <em> <a href="https://ieeexplore.ieee.org/document/8945819" style="color:#6ecadc" rel="nofollow">  From Chest X-Rays to Radiology Reports: A Multimodal Machine Learning Approach</a> </em> - Sonit Singh et al., 2018
   </li>
   
+   <li> <em> <a href="https://ieeexplore.ieee.org/document/8970668" style="color:#6ecadc" rel="nofollow">Automatic Generation of Medical Imaging Diagnostic Report with Hierarchical Recurrent Neural Network</a> </em> - Changchang Yin et al., 2019
+  </li>
+  
+  
+  
 </ul>
 
