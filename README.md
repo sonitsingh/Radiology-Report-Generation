@@ -36,6 +36,12 @@ Important papers on the automatic generation of radiology reports from medical i
   
   <li> <em> <a href="https://ieeexplore.ieee.org/document/8945819" style="color:#6ecadc" rel="nofollow">  From Chest X-Rays to Radiology Reports: A Multimodal Machine Learning Approach</a> </em> - Sonit Singh et al., 2019
   </li>
+  
+   <li> <em> <a href="https://openreview.net/forum?id=r1gEaWvTtV" style="color:#6ecadc" rel="nofollow">  Caveats in Generating Medical Imaging Labels from Radiology Reports with Natural Language Processing</a> </em> - Tobi Olatunji et al., 2019
+  </li>
+  
+  <li> <em> <a href="https://ml4health.github.io/2019/pdf/175_ml4h_preprint.pdf" style="color:#6ecadc" rel="nofollow">  Baselines for Chest X-Ray Report Generation</a> </em> - William Boag et al., 2019
+  </li>
 </ul>
 
 ## 2018
