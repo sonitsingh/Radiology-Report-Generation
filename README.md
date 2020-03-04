@@ -33,6 +33,9 @@ Important papers on the automatic generation of radiology reports from medical i
   
    <li> <em> <a href="https://aaai.org/ojs/index.php/AAAI/article/view/4637" style="color:#6ecadc" rel="nofollow">Knowledge-driven Encoder, Retrieve, Paraphrase for Medical Image Report Generation</a> </em> - Li et al., 2019
   </li>
+  
+  <li> <em> <a href="https://ieeexplore.ieee.org/document/8945819" style="color:#6ecadc" rel="nofollow">  From Chest X-Rays to Radiology Reports: A Multimodal Machine Learning Approach</a> </em> - Sonit Singh et al., 2019
+  </li>
 </ul>
 
 ## 2018
@@ -47,9 +50,6 @@ Important papers on the automatic generation of radiology reports from medical i
   </li>
   
    <li> <em> <a href="https://dl.acm.org/doi/pdf/10.1145/3343031.3356066?download=true" style="color:#6ecadc" rel="nofollow"> Automatic Disease Detection and Report Generation for Gastrointestinal Tract Examinations</a> </em> - Philip Harzig et al., 2018
-  </li>
- 
-  <li> <em> <a href="https://ieeexplore.ieee.org/document/8945819" style="color:#6ecadc" rel="nofollow">  From Chest X-Rays to Radiology Reports: A Multimodal Machine Learning Approach</a> </em> - Sonit Singh et al., 2018
   </li>
 </ul>
 
