@@ -51,5 +51,14 @@ Important papers on the automatic generation of radiology reports from medical i
   
    <li> <em> <a href="https://dl.acm.org/doi/pdf/10.1145/3343031.3356066?download=true" style="color:#6ecadc" rel="nofollow"> Automatic Disease Detection and Report Generation for Gastrointestinal Tract Examinations</a> </em> - Philip Harzig et al., 2018
   </li>
+  
+   <li> <em> <a href="https://link.springer.com/chapter/10.1007/978-3-030-00937-3_22" style="color:#6ecadc" rel="nofollow"> Towards Automatic Report Generation in Spine Radiology Using Weakly Supervised Framework</a> </em> - Zhongyi Han et al., 2018
+  </li>
+  
+  <li> <em> <a href="https://faculty.ist.psu.edu/suh972/Xue-MICCAI2018.pdf" style="color:#6ecadc" rel="nofollow"> Multimodal Recurrent Modelwith Attention for Automated RadiologyReport Generation</a> </em> - Yuan Xue et al., 2018
+  </li>
+  
+  
+  
 </ul>
 
