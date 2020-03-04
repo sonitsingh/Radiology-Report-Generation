@@ -63,8 +63,12 @@ Important papers on the automatic generation of radiology reports from medical i
   
   <li> <em> <a href="https://faculty.ist.psu.edu/suh972/Xue-MICCAI2018.pdf" style="color:#6ecadc" rel="nofollow"> Multimodal Recurrent Modelwith Attention for Automated RadiologyReport Generation</a> </em> - Yuan Xue et al., 2018
   </li>
-  
-  
-  
+</ul>
+
+## 2015
+<ul>
+    <li> <em> <a href="https://ieeexplore.ieee.org/document/7094968?section=abstract" style="color:#6ecadc" rel="nofollow"> From medical image to automatic medical report generation</a> </em> - 
+P. Kisilev et al., 2015
+  </li>
 </ul>
 
