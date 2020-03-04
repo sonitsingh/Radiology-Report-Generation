@@ -1,12 +1,15 @@
 # Radiology-Report-Generation
 Important papers on the automatic generation of radiology reports from medical images
 
+## 2020
+
+
+
+## 2019
 <ul>
-  <li> <em> <a href="www.aclweb.com/papers" style="color:#6ecadc" rel="nofollow"> On the Automatic Generation of Medical Imaging Reports</a> </em> - Baoyu Jing et al., ACL 2018
+    <li> <em> <a href="https://arxiv.org/pdf/1908.02123.pdf" style="color:#6ecadc" rel="nofollow"> Addressing Data Bias Problems for Chest X-ray Image Report Generation</a> </em> - Philipp Harzig et al., 2019
   </li>
-   <li> <em> <a href="https://arxiv.org/pdf/1908.02123.pdf" style="color:#6ecadc" rel="nofollow"> Addressing Data Bias Problems for Chest
-X-ray Image Report Generation</a> </em> - Philipp Harzig et al., 2019
-  </li>
+  
    <li> <em> <a href="https://arxiv.org/pdf/1907.09085.pdf" style="color:#6ecadc" rel="nofollow"> Automatic Radiology Report Generation based on Multi-view Image Fusion and Medical Concept Enrichment</a> </em> - Jianbo Yuan et al., 2019
   </li>
   
@@ -25,6 +28,18 @@ X-ray Image Report Generation</a> </em> - Philipp Harzig et al., 2019
   <li> <em> <a href="https://arxiv.org/pdf/1905.02283.pdf" style="color:#6ecadc" rel="nofollow"> Caveats in Generating Medical Imaging Labels from Radiology Reports with Natural Language Processing</a> </em> - Tobi Olatunji et al., 2019
   </li>
   
+   <li> <em> <a href="https://ieeexplore.ieee.org/document/8970668" style="color:#6ecadc" rel="nofollow">Automatic Generation of Medical Imaging Diagnostic Report with Hierarchical Recurrent Neural Network</a> </em> - Changchang Yin et al., 2019
+  </li>
+  
+   <li> <em> <a href="https://aaai.org/ojs/index.php/AAAI/article/view/4637" style="color:#6ecadc" rel="nofollow">Knowledge-driven Encoder, Retrieve, Paraphrase for Medical Image Report Generation</a> </em> - Li et al., 2019
+  </li>
+</ul>
+
+## 2018
+<ul>
+  <li> <em> <a href="www.aclweb.com/papers" style="color:#6ecadc" rel="nofollow"> On the Automatic Generation of Medical Imaging Reports</a> </em> - Baoyu Jing et al., ACL 2018
+  </li>
+ 
   <li> <em> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6244189/pdf/sdata2018251.pdf" style="color:#6ecadc" rel="nofollow"> Data Descriptor: A dataset of clinically generated visual questions and answers about radiology images</a> </em> - Jason J. Lau et al., 2018
   </li>
   
@@ -36,14 +51,5 @@ X-ray Image Report Generation</a> </em> - Philipp Harzig et al., 2019
  
   <li> <em> <a href="https://ieeexplore.ieee.org/document/8945819" style="color:#6ecadc" rel="nofollow">  From Chest X-Rays to Radiology Reports: A Multimodal Machine Learning Approach</a> </em> - Sonit Singh et al., 2018
   </li>
-  
-   <li> <em> <a href="https://ieeexplore.ieee.org/document/8970668" style="color:#6ecadc" rel="nofollow">Automatic Generation of Medical Imaging Diagnostic Report with Hierarchical Recurrent Neural Network</a> </em> - Changchang Yin et al., 2019
-  </li>
-  
-   <li> <em> <a href="https://aaai.org/ojs/index.php/AAAI/article/view/4637" style="color:#6ecadc" rel="nofollow">Knowledge-driven Encoder, Retrieve, Paraphrase for Medical Image Report Generation</a> </em> - Li et al., 2019
-  </li>
-  
-  
-  
 </ul>
 
