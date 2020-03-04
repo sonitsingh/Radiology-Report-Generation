@@ -2,7 +2,10 @@
 Important papers on the automatic generation of radiology reports from medical images
 
 ## 2020
-
+<ul>
+    <li> <em> <a href="https://arxiv.org/pdf/2002.08277.pdf" style="color:#6ecadc" rel="nofollow"> When Radiology Report Generation Meets Knowledge Graph</a> </em> - Yixiao Zhang et al., 2020
+  </li>
+</ul>
 
 
 ## 2019
@@ -42,6 +45,12 @@ Important papers on the automatic generation of radiology reports from medical i
   
   <li> <em> <a href="https://ml4health.github.io/2019/pdf/175_ml4h_preprint.pdf" style="color:#6ecadc" rel="nofollow">  Baselines for Chest X-Ray Report Generation</a> </em> - William Boag et al., 2019
   </li>
+  
+  <li> <em> <a href="https://ieeexplore.ieee.org/abstract/document/8935910" style="color:#6ecadc" rel="nofollow">  Automatic Generation of Pulmonary Radiology Reports with Semantic Tags</a> </em> - Mengdan Gu et al., 2019
+  </li>
+  
+  <li> <em> <a href="https://bura.brunel.ac.uk/bitstream/2438/18483/3/FullText.pdf" style="color:#6ecadc" rel="nofollow">  An Annotation Model on End-to-End Chest Radiology Reports</a> </em> - Xin Huang et al., 2019
+  </li>
 </ul>
 
 ## 2018
@@ -62,6 +71,13 @@ Important papers on the automatic generation of radiology reports from medical i
   </li>
   
   <li> <em> <a href="https://faculty.ist.psu.edu/suh972/Xue-MICCAI2018.pdf" style="color:#6ecadc" rel="nofollow"> Multimodal Recurrent Modelwith Attention for Automated RadiologyReport Generation</a> </em> - Yuan Xue et al., 2018
+  </li>
+</ul>
+
+## 2017
+<ul>
+    <li> <em> <a href="https://europepmc.org/article/PMC/5873469" style="color:#6ecadc" rel="nofollow"> Automated Radiology Report Summarization Using an Open-Source Natural Language Processing Pipeline</a> </em> - 
+Goff Dj et al., 2017
   </li>
 </ul>
 
